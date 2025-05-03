@@ -2,9 +2,10 @@
 
 ### Welcome to my Github! 
 
+## 👩‍💻 About Me 
 
 
-## Connect with Me 
+## 📫 Connect with Me 
 
 - ✉️ Email: aishwaryaa.cherian@gmail.com
 - 💼 [LinkedIn]: (https://www.linkedin.com/in/aishwarya-cherian)
