@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi Im Ash! 👋
+
+### Welcome to my Github! 
 
 <!--
 **ashcds/ashcds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
