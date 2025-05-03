@@ -20,6 +20,6 @@
 
 ## 📫 Connect with Me 
 
-- ✉️ Email: aishwaryaa.cherian@gmail.com
+- ✉️ Email: aishwarya.cherian@hotmail.com
 - 💼 [LinkedIn]: (https://www.linkedin.com/in/aishwarya-cherian)
 - 🐙 GitHub: [ashcds] (https://github.com/ashcds)
