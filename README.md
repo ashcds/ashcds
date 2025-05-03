@@ -1,6 +1,7 @@
 ## Hi Im Ash! Welcome to my Github👋
 
 ## 👩‍💻 About Me 
+I am a senior data analyst and data strategist at [Whirlpool Corporation](https://www.whirlpoolcorp.com/). 
 
 ## Technical Skills 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
