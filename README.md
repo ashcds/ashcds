@@ -1,7 +1,9 @@
 ## Hi Im Ash! Welcome to my Github👋
 
 ## 👩‍💻 About Me 
-I am a senior data analyst and data strategist at [Whirlpool Corporation](https://www.whirlpoolcorp.com/). 
+I am a senior data analyst and data strategist at [Whirlpool Corporation](https://www.whirlpoolcorp.com/). In my current role I leverage my experience in consulting, finance and engineering to bridge the gap between technical engineering teams and business needs with analytics. 
+
+
 
 ## Technical Skills 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -18,6 +20,9 @@ I am a senior data analyst and data strategist at [Whirlpool Corporation](https:
 
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=google-cloud&logoColor=white)
 ![Amazon Redshift](https://img.shields.io/badge/Amazon%20Redshift-8C4FFF?style=flat&logo=amazon-redshift&logoColor=white)
+
+![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud_Practitioner-Certificate-232F3E?style=flat&logo=amazon-aws&logoColor=white) 
+
 
 ## 📫 Connect with Me 
 
