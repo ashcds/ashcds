@@ -23,6 +23,11 @@ I am a senior data analyst and data strategist at [Whirlpool Corporation](https:
 
 ![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud_Practitioner-Certificate-232F3E?style=flat&logo=amazon-aws&logoColor=white) 
 
+## 📂 Featured Projects
+
+### 🍄Mushroom Classification with Neural Networks
+Classifies edible vs. poisonous mushrooms using a custom neural network built in TensorFlow.  
+**Tech Stack:** Python, TensorFlow, Pandas, Scikit-learn  
 
 ## 📫 Connect with Me 
 
