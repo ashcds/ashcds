@@ -26,7 +26,7 @@ I enjoy building interpretable models, cleaning messy datasets, and deploying en
 
 ## 📂 Featured Projects
 
-### 🍄Mushroom Classification with Neural Networks
+### 🍄Mushroom Classification with Neural Networks and Random Forest
 Classifies edible vs. poisonous mushrooms using a custom neural network built in TensorFlow.  
 **Tech Stack:** Python, TensorFlow, Pandas, Scikit-learn  
 🔗 [View Project](https://github.com/ashcds/mushroom-classification)
