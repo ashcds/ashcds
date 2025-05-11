@@ -1,9 +1,7 @@
 ## Hi Im Ash! Welcome to my Github👋
 
 ## 👩‍💻 About Me 
-I am a **senior data analyst** and **data strategist** at [Whirlpool Corporation](https://www.whirlpoolcorp.com/). In my current role I leverage my experience in **consulting, finance and engineering** to bridge the gap between technical teams and business objectives. I specialize in turning complex data into actionable insights, helping organizations make smarter, data-driven decisions.
-
-I enjoy building interpretable models, cleaning messy datasets, and deploying end-to-end data science solutions and currently working on expanding my portfolio!
+I am a **senior data analyst** and **data strategist** at [Whirlpool Corporation](https://www.whirlpoolcorp.com/). In my current role I leverage my experience in **consulting, finance and engineering** to bridge the gap between technical teams and business objectives. I specialize in turning complex data into actionable insights, helping organizations make smarter, data-driven decisions. Currently working on expanding my portfolio!
 
 
 ## Technical Skills 
