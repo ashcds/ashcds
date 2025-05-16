@@ -1,4 +1,4 @@
-## Hi Im Ash! Welcome to my Github👋
+## Hi I'm Ash! Welcome to my Github👋
 
 ## 👩‍💻 About Me 
 I am a **senior data analyst** and **data strategist** at [Whirlpool Corporation](https://www.whirlpoolcorp.com/). In my current role I leverage my experience in **consulting, finance and engineering** to bridge the gap between technical teams and business objectives. I specialize in turning complex data into actionable insights, helping organizations make smarter, data-driven decisions. Currently working on expanding my portfolio!
@@ -23,6 +23,11 @@ I am a **senior data analyst** and **data strategist** at [Whirlpool Corporation
 ![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud_Practitioner-Certificate-232F3E?style=flat&logo=amazon-aws&logoColor=white) 
 
 ## 📂 Featured Projects
+
+### 🩺US Diabetes Health Indicators App
+A Streamlit-powered web app [(access here)](https://check-your-diabetes-risk.streamlit.app/) that predicts the risk of diabetes based on individual health and lifestyle factors. This project uses a trained Random Forest Classifier on a selection of features from the CDC survey data to estimate the likelihood of diabetes from user input. 
+**Tech Stack:** Python, Scikit-learn, Imblearn, Streamlit
+🔗 [View Project](https://github.com/ashcds/US-diabetes-health-indicators)
 
 ### 🍄Mushroom Classification with Neural Networks and Random Forest
 Classifies edible vs. poisonous mushrooms using a custom neural network built in TensorFlow.  
