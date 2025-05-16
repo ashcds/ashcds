@@ -27,11 +27,13 @@ I am a **senior data analyst** and **data strategist** at [Whirlpool Corporation
 ### 🩺US Diabetes Health Indicators App
 A Streamlit-powered web app [(access here)](https://check-your-diabetes-risk.streamlit.app/) that predicts the risk of diabetes based on individual health and lifestyle factors. This project uses a trained Random Forest Classifier on a selection of features from the CDC survey data to estimate the likelihood of diabetes from user input. 
 **Tech Stack:** Python, Scikit-learn, Imblearn, Streamlit
-🔗 [View Project](https://github.com/ashcds/US-diabetes-health-indicators)
+
+🔗 [View Project](https://github.com/ashcds/mushroom-classification)
 
 ### 🍄Mushroom Classification with Neural Networks and Random Forest
 Classifies edible vs. poisonous mushrooms using a custom neural network built in TensorFlow.  
 **Tech Stack:** Python, TensorFlow, Pandas, Scikit-learn  
+
 🔗 [View Project](https://github.com/ashcds/mushroom-classification)
 
 ## 📫 Connect with Me 
