@@ -29,7 +29,7 @@ A Streamlit-powered web app [(access here)](https://check-your-diabetes-risk.str
 
 **Tech Stack:** Python, Scikit-learn, Imblearn, Streamlit
 
-🔗 [View Project](https://github.com/ashcds/mushroom-classification)
+🔗 [View Project](https://github.com/ashcds/US-diabetes-health-indicators)
 
 ### 🍄Mushroom Classification with Neural Networks and Random Forest
 Classifies edible vs. poisonous mushrooms using a custom neural network built in TensorFlow.  
