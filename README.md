@@ -25,8 +25,7 @@ I am a **senior data analyst** and **data strategist** at [Whirlpool Corporation
 ## 📂 Featured Projects
 
 ### 🤖 Automation Worry Predictor  
-A machine learning project that predicts whether individuals are worried about job automation, based on a few simple questions on their opinions about driverless technologies and technology impacts. model is trained on survey data from the Pew Research Center’s Wave 27 American Trends Panel and helps identify vulnerable or concerned segments of the workforce. Project includes feature selection using Chi-squared and SHAP, model evaluation with F1 score and AUC, and interpretability analysis using SHAP visualizations.  
-Access Streamlit App [here](https://automation-worry-indicator.streamlit.app/)
+A machine learning project that predicts whether individuals are worried about job automation, based on a few simple questions on their opinions about driverless technologies and technology impacts. model is trained on survey data from the Pew Research Center’s Wave 27 American Trends Panel and helps identify vulnerable or concerned segments of the workforce. Project includes feature selection using Chi-squared and SHAP, model evaluation with F1 score and AUC, and interpretability analysis using SHAP visualizations. Access Streamlit App [here](https://automation-worry-indicator.streamlit.app/). 
 
 **Tech Stack:** Python, Scikit-learn, XGBoost, Imbalanced-learn, SHAP, Pandas, Matplotlib   
 
